@@ -1,0 +1,2 @@
+Name,Fueltype,Technology,Set,Country,Capacity,Efficiency,Duration,Volume_Mm3,DamHeight_m,YearCommissioned,Retrofit,lat,lon,projectID,YearDecommissioning
+Pyrolysis,Bioenergy,OCGT,CHP,DE,9.8,,0,0,0,2003,2003,54.74186,11.78302,"{'OPSD': ['BNA0628'], 'CARMA': ['CARMA26788']}",2050

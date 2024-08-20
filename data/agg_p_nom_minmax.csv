@@ -1,0 +1,6 @@
+country,carrier,min,max
+DE,onwind,0.1,
+DE,offwind-ac,0.1,
+DE,offwind-dc,0.1,
+DE,solar,0.2,
+DE,biomass,0.6,
