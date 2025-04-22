@@ -3,6 +3,7 @@
 cd path/without/spaces
 
 
+_______
 *if pypsa-eur not installed:
 
 git clone git@github.com:txelldm/pypsa-eur-bc.git
@@ -14,12 +15,18 @@ cd pypsa-eur-bc
 .../pypsa-eur-bc % conda activate pypsa-eur
 
 
+_______
+
+
 *if pypsa-eur allready installed: 
 
 conda activate pypsa-eur
 
 git clone git@github.com:txelldm/pypsa-eur-bc.git
 
+
+
+_______
 
 
 
