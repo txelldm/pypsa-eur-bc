@@ -1,21 +1,4 @@
-# Changes from PyPSA-Eur
-
-- scripts/add_biochar
-
-- scripts/override_components
-
-- data/override_component_attrs
-
-- scripts/prepare_network
-
-- scripts/solve_network
-
-- snakefile
-
-- config
-
-
-
+PyPSA-Eur extension with pyrolysis technology. (output: electricity and negative emissions)
 
 # PyPSA-Eur-bc installation
 
