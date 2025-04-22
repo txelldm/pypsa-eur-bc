@@ -1,5 +1,3 @@
-PyPSA-Eur extension with pyrolysis technology. (output: electricity and negative emissions)
-
 # PyPSA-Eur-bc installation
 
 cd path/without/spaces
